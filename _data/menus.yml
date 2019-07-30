@@ -1,0 +1,16 @@
+- title: Submit
+  items:
+  - title: Call for Papers
+    url  : 'template_event_site/program/call-for-papers'
+  - title: Call for Trainings
+    url  : 'template_event_site/program/call-for-trainings'
+- title: Sponsor
+  url  : template_event_site/sponsors/
+- title: About
+  items:
+  - title: Code of Conduct
+    url  : 'template_event_site/about/code-of-conduct'
+  - title: [EVENT]
+    url  : template_event_site/about/
+  - title: Team
+    url  : template_event_site/about/team
