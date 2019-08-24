@@ -1,8 +1,5 @@
 - title: Photos
-  items:
-  - title: 2019 Photos
-    url	: 'https://photos.app.goo.gl/XTisXXnmvZrCo86J8'
-  - title: 2020 Photos (Coming Soon)
+  url	: /photos
 - title: Program
   items:
   - title: Coming Soon
