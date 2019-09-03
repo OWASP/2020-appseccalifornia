@@ -41,3 +41,12 @@ section {
 		padding: 1.5em 1em;
 	}
 }
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 5px;
+}
