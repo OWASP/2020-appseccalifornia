@@ -4,8 +4,7 @@
   items:
   - title: Coming Soon
 - title: Speakers
-  items:
-  - title: Coming Soon
+  url	: speakers/
 - title: Training
   items:
   - title: Coming Soon
