@@ -12,7 +12,14 @@
   - title: Coming Soon
 - title: Logistics
   items:
-  - title: Coming Soon
+  - title: Venue
+    url: venue/
+  - title: Parking
+    url: parking/
+  - title: Lodging
+    url: lodging/
+  - title: Code of Conduct
+    url: conduct/
 - title: Register
   items:
   - title: Registration - Opening Soon
