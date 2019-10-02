@@ -11,7 +11,7 @@
   items:
   - title: Coming Soon
 - title: Logistics
-  url : /logistics
+  url : logistics/
   items:
   - title: Venue
     url: venue/
