@@ -2,6 +2,9 @@ conferenceteam:
   - name: Richard Greenberg
     role: Co-Chair of AppSec California
     image: richard.jpg
+  - name: Anthony Trummer
+    role: Co-Organizer for AppSec California
+    image: anthony.jpg
 staff: 
   - name: Mike McCamon 
     role: Executive Director
