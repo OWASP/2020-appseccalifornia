@@ -33,6 +33,8 @@
     url  : 'program/call-for-trainings'
 - title: Sponsor
   url  : sponsors/
+- title: Volunteer
+  url : 'https://signup.com/go/QGXzxkB'
 - title: About
   items:
   - title: Code of Conduct
