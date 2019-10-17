@@ -27,12 +27,10 @@
     url: diversity/
 - title: Submit/Volunteer
   items:
-  - title: Call for Papers
-    url  : 'program/call-for-papers'
-  - title: Call for Trainings
-    url  : 'program/call-for-trainings'
   - title: Volunteer
     url : 'program/volunteer'
+  - title: Call for Papers - CLOSED
+  - title: Call for Trainings - CLOSED
 - title: Sponsor
   url  : sponsors/
 - title: About
