@@ -3,8 +3,7 @@
 - title: Photos
   url	: photos/
 - title: Program
-  items:
-  - title: Coming Soon
+  url   : program/
 - title: Speakers
   url	: speakers/
 - title: Training
