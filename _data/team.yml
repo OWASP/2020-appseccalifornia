@@ -2,8 +2,11 @@ conferenceteam:
   - name: Richard Greenberg
     role: Co-Chair of AppSec California
     image: richard.jpg
+  - name: Walter Martín Villalba
+    role: AppSec California Organizer
+    image: martin.jpg
   - name: Anthony Trummer
-    role: Co-Organizer for AppSec California
+    role: AppSec California Organizer
     image: anthony.jpg
 staff: 
   - name: Mike McCamon 
