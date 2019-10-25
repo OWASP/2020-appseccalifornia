@@ -21,7 +21,8 @@
     url: lodging/
 - title: Register
   items:
-  - title: Registration - Opening Soon
+  - title: Registration
+    url: register/
   - title: Diversity & Veterans Scholarship
     url: diversity/
 - title: Submit/Volunteer
