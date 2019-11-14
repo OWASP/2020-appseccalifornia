@@ -20,6 +20,8 @@
     url: lodging/
 - title: Register
   items:
+  - title: Student Discount
+    url: student/
   - title: Registration
     url: register/
   - title: Diversity & Veterans Scholarship
