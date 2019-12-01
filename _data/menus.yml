@@ -32,8 +32,14 @@
     url : 'program/volunteer'
   - title: Call for Papers - CLOSED
   - title: Call for Trainings - CLOSED
-- title: Sponsor
-  url  : sponsors/
+- title: Sponsors
+  items:
+  -title: Sponsorship Opportunities
+        url  : sponsors/
+  -title: Sponsors List
+	url  : sponsors/
+  -title: Career Fair Sponsorships
+	url  : sponsors/
 - title: About
   items:
   - title: Code of Conduct
