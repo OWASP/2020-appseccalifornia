@@ -26,12 +26,10 @@
     url: register/
   - title: Diversity & Veterans Scholarship
     url: diversity/
-- title: Submit/Volunteer
+- title: Volunteer
   items:
   - title: Volunteer
     url : 'program/volunteer'
-  - title: Call for Papers - CLOSED
-  - title: Call for Trainings - CLOSED
 - title: Sponsors
   items:
   -title: Sponsorship Opportunities
