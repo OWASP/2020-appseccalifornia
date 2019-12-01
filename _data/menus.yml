@@ -32,12 +32,12 @@
     url : 'program/volunteer'
 - title: Sponsors
   items:
-  -title: Sponsorship Opportunities
-        url  : sponsors/
-  -title: Sponsors List
-	url  : sponsors/
-  -title: Career Fair Sponsorships
-	url  : sponsors/
+  - title: Sponsorship Opportunities
+    url  : sponsors/
+  - title: Sponsors List
+    url  : sponsors/
+  - title: Career Fair Sponsorships
+    url  : sponsors/
 - title: About
   items:
   - title: Code of Conduct
