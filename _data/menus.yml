@@ -3,7 +3,11 @@
 - title: Photos
   url	: photos/
 - title: Program
-  url   : program/
+  items:
+  - title: Sessions
+    url: program/
+  - title: CTF
+    url: ctf/
 - title: Speakers
   url	: speakers/
 - title: Training
