@@ -5,6 +5,9 @@ conferenceteam:
   - name: Walter Martín Villalba
     role: AppSec California Organizer
     image: martin.jpg
+  - name: Mike Rodriguez
+    role: AppSec California Organizer
+    image: miker.jpg
   - name: Anthony Trummer
     role: AppSec California Organizer
     image: anthony.jpg
