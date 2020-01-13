@@ -2,9 +2,9 @@ conferenceteam:
   - name: Richard Greenberg
     role: Co-Chair of AppSec California
     image: richard.jpg
- - name: Haral Tsitsivas
-   role: Co-Chair of AppSec California
-   image: haral.jpg 
+  - name: Haral Tsitsivas
+    role: Co-Chair of AppSec California
+    image: haral.jpg 
  - name: Walter Martín Villalba
     role: AppSec California Organizer
     image: martin.jpg
