@@ -11,6 +11,9 @@ conferenceteam:
   - name: Mike Rodriguez
     role: AppSec California Organizer
     image: miker.jpg
+  - name: Clint Gibler
+    role: AppSec California Organizer
+    image: clint.jpg
   - name: Anthony Trummer
     role: AppSec California Organizer
     image: anthony.jpg
