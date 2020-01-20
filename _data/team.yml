@@ -17,6 +17,14 @@ conferenceteam:
   - name: Anthony Trummer
     role: AppSec California Organizer
     image: anthony.jpg
+  - name: Craig Hai
+    role: AppSec California Organizer
+    image: craighai.jpg
+  - name: Jonathan Marcil
+    role: AppSec California Organizer
+    image: jonathan.jpg
+
+
 staff: 
   - name:  
     role:
