@@ -23,7 +23,15 @@ conferenceteam:
   - name: Jonathan Marcil
     role: AppSec California Organizer
     image: jonathan.jpg
-
+  - name: Linus Yue
+    role: AppSec California Organizer
+    image: linus.jpg
+  - name: Rushabh Dalwadi
+    role: AppSec California Organizer
+    image: rushabh.jpg
+  - name: Susan Huang
+    role: AppSec California Organizer
+    image: susan.jpg 
 
 staff: 
   - name:  
